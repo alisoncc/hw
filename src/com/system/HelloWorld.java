@@ -1,4 +1,4 @@
-package com.eternal;
+package com.system;
 
 public class HelloWorld {
 
